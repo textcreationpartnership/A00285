@@ -35,7 +35,9 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Body#####
-Instructions for the clergieChurch of England.1630Approx. 3 KB of XML-encoded text transcribed from 
+
+1. Inſtructions for the Clergie.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
